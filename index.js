@@ -52,14 +52,14 @@ console.log("avg marks are =", avg)
 
 // Find area and parameter of rectangle
 
-let a = 2
-let b = 4
+let g = 2
+let t = 4
 
-let p = 2*(a+b)
+let p = 2*(g+t)
 
 console.log('p =', p)
 
-let area = a*b 
+let area = g*t
 
 console.log('area =', area)
 
@@ -67,3 +67,52 @@ console.log('area =', area)
 // Parameter of triangle square
 // Diameter of circle
 //
+
+// Parameter of triangle
+let j = 6
+let k = 2
+let l = 3
+
+
+let parameter = (j+k+l)
+
+console.log('parameter of triangle =',parameter)
+
+
+// Area of triangle
+let Area = j*k*l
+
+console.log('Area of triangle =', Area)
+
+
+// Parameter of square
+
+let c = 25
+let d = 4
+
+let para = 4*(c)
+
+console.log('Parameter of square =',para)
+
+
+// Area of square
+
+let areaOfSquare = c**2
+
+console.log('Area of square =',areaOfSquare)
+
+
+// CRICLE WALA NHI A RAHA
+const radius= 3
+const PI = 3.14159
+
+let findDiamter = 3*2
+
+console.log("Diameter of cricle =", findDiamter)
+
+// end
+
+// Parameter of cricle 
+const radiusOfCricle = 6
+const cricumference = 6
+
